@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/khusniddin/node-nodejs-basics.git"
+    "url": "https://github.com/KHUSNIDDIN989/node-nodejs-basics.git"
   },
   "keywords": [
     "nodejs",
@@ -33,6 +33,5 @@
   ],
   "author": "Husniddin",
   "license": "ISC",
-
   "homepage": "https://github.com/AlreadyBored/node-nodejs-basics/issues"
 }
